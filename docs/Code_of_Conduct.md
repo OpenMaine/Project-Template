@@ -1,4 +1,4 @@
-Code for Baltimore Code of Conduct
+OpenMaine Code of Conduct
 =============
 
 #### Derived from Code for America's Code of Conduct
