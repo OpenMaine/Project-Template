@@ -1,5 +1,5 @@
 # ProjectTemplate
-The project template for Code for Baltimore github projects.  
+The project template for OpenMaine github projects.  
 
 <!-- TOC -->
 
@@ -54,6 +54,3 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-<p align="center">
-    <img src="docs/img/CfB.png" width="400">
-</p>
