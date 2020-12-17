@@ -8,6 +8,8 @@ Code for Baltimore projects should be built with the intention of deploying on [
         - [Projects](#projects)
         - [Issues and Milestones](#issues-and-milestones)
         - [Tagging Issues](#tagging-issues)
+        - [Licensing](#licensing)
+    - [Branding](#branding)
 - [Code Quality Standards](#code-quality-standards)
     - [Style Guides](#style-guides)
 - [Static Code Analysis](#static-code-analysis)
@@ -28,6 +30,12 @@ When breaking down work it is important to add tasks to the Github project. For 
 
 ### Tagging Issues
 When entering issues tagging can be used to further organize work or make work more visible to team members.
+
+### Licensing
+Pending discussion
+
+## Branding
+For a uniform look across the OpenMaine projects, a consistent approach to colors and fonts should be taken. The OpenMaine logo can be found at [https://www.openmaine.org/img/icon.5.png]. The primary colors of OpenMaine are blue (`#040437`) and white. 
 
 # Code Quality Standards
 Regardless of Language:
